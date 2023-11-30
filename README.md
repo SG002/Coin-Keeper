@@ -7,7 +7,7 @@ Balance Overview: Keep track of your total balance, income, and expenses.
 Simple Interface: Intuitive design for seamless user experience.
 Persistent Storage: Uses local storage to save transactions for future visits.
 
-**Technologies Used**
+**Technologies Used**<br />
 HTML: Provides the structure for the web application.
 CSS: Styles the application for an attractive and user-friendly interface.
 JavaScript: Enables interactive functionalities, transaction management, and local storage usage.
